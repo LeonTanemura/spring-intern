@@ -1,0 +1,216 @@
+[
+    {
+        "filename": "image0.png",
+        "error": "JSONパース失敗",
+        "raw_output": "```json\n{\n   \"filename\": \"image0.png\",\n   \"hinban\": [\n       \"XLX460DHNKLE9\",\n       \"XLX430DENCLE9\"\n   ],\n   \"num_items\": \"2\",\n   \"serial_num\": \"A22\",\n   \"other\": \"LED照明、色温度5000K、Ra: 83、ポルトフリー\"\n}\n```",
+        "processing_time": 2.59
+    },
+    {
+        "filename": "image1.png",
+        "error": "JSONパース失敗",
+        "raw_output": "```json\n{\n   \"filename\": \"image1.png\",\n   \"hinban\": \"XLW463DENKLE9, XLW433DENKLE9\",\n   \"num_items\": \"2\",\n   \"serial_num\": \"なし\",\n   \"other\": \"LED照明、ボルトフリー、素材：ステンレス、防湿型・防雨型、色温度：5000K、Ra：83\"\n}\n```",
+        "processing_time": 2.54
+    },
+    {
+        "filename": "image2.png",
+        "error": "JSONパース失敗",
+        "raw_output": "```json\n{\n   \"filename\": \"image2.png\",\n   \"hinban\": \"XLX800DENLE2\",\n   \"num_items\": \"1\",\n   \"serial_num\": \"A67\",\n   \"other\": \"LED 67.0W以下, 色温度: 5000K, Ra: 83\"\n}\n```",
+        "processing_time": 2.26
+    },
+    {
+        "filename": "image3.png",
+        "error": "JSONパース失敗",
+        "raw_output": "```json\n{\n   \"filename\": \"image3.png\",\n   \"hinban\": \"XLX210DENLE9\",\n   \"num_items\": \"1\",\n   \"serial_num\": \"A13\",\n   \"other\": \"LED 12.1W以下 1,600lm, 色温度: 5000K, 本体: 鋼板\"\n}\n```",
+        "processing_time": 3.17
+    },
+    {
+        "filename": "image4.png",
+        "error": "JSONパース失敗",
+        "raw_output": "```json\n{\n   \"filename\": \"image4.png\",\n   \"hinban\": \"XLX460NHNLE9, XLX440ENENCLE9\",\n   \"num_items\": \"3\",\n   \"serial_num\": \"B39, B28, B28G\",\n   \"other\": \"LED照明、色温度5,000K、ポルトフリー、鋼板\"\n}\n```",
+        "processing_time": 2.47
+    },
+    {
+        "filename": "image5.png",
+        "error": "JSONパース失敗",
+        "raw_output": "```json\n{\n   \"filename\": \"image5.png\",\n   \"hinban\": \"XLX210NENLE9\",\n   \"num_items\": \"1\",\n   \"serial_num\": \"B13\",\n   \"other\": \"LED、色温度: 5000K、Ra: 83、材質: 銅板\"\n}\n```",
+        "processing_time": 2.25
+    },
+    {
+        "filename": "image6.png",
+        "error": "JSONパース失敗",
+        "raw_output": "```json\n{\n   \"filename\": \"image6.png\",\n   \"hinban\": \"XWL443NENKLE9\",\n   \"num_items\": \"1\",\n   \"serial_num\": \"B28WG\",\n   \"other\": \"LED、27.3W未満、830lm以上、防湿・防雨型、色温度5000K\"\n}\n```",
+        "processing_time": 2.37
+    },
+    {
+        "filename": "image7.png",
+        "error": "JSONパース失敗",
+        "raw_output": "```json\n{\n   \"filename\": \"image7.png\",\n   \"hinban\": \"XLX460KHNKLE9, XLX430KENCLE9\",\n   \"num_items\": \"2\",\n   \"serial_num\": \"C39, C22\",\n   \"other\": \"LED, 色温度5000K, 本体: 鋼板\"\n}\n```",
+        "processing_time": 4.08
+    },
+    {
+        "filename": "image8.png",
+        "error": "JSONパース失敗",
+        "raw_output": "```json\n{\n   \"filename\": \"image8.png\",\n   \"hinban\": [\"C34W\", \"C17WG\"],\n   \"num_items\": \"2\",\n   \"serial_num\": \"なし\",\n   \"other\": \"LED照明、色温度5000K、Ra: 83、ボルトフリー、本体: ステンレス、型: 防湿型\"\n}\n```",
+        "processing_time": 3.41
+    },
+    {
+        "filename": "image9.png",
+        "error": "JSONパース失敗",
+        "raw_output": "```json\n{\n   \"filename\": \"image9.png\",\n   \"hinban\": [\n       \"NNF41231JLE9\",\n       \"NNF41231JLA9\"\n   ],\n   \"num_items\": \"2\",\n   \"serial_num\": \"D33\",\n   \"other\": \"直管形LED、33W以下、色温度5000K、Ra:84、反射板：亜鉛鋼板\"\n}\n```",
+        "processing_time": 2.99
+    },
+    {
+        "filename": "image10.png",
+        "error": "JSONパース失敗",
+        "raw_output": "```json\n{\n   \"filename\": \"image10.png\",\n   \"hinban\": \"NNFW41231CLE9\",\n   \"num_items\": \"1\",\n   \"serial_num\": \"なし\",\n   \"other\": \"LED照明、色温度5000K、防雨型\"\n}\n```",
+        "processing_time": 2.45
+    },
+    {
+        "filename": "image11.png",
+        "error": "JSONパース失敗",
+        "raw_output": "```json\n{\n   \"filename\": \"image11.png\",\n   \"hinban\": [\"XLX460UHNKL9\", \"XLX460UHNKL9\", \"XLX430UENJLE9\"],\n   \"num_items\": \"3\",\n   \"serial_num\": \"なし\",\n   \"other\": \"ボルトフリー、色温度5000K\"\n}\n```",
+        "processing_time": 3.11
+    },
+    {
+        "filename": "image12.png",
+        "error": "JSONパース失敗",
+        "raw_output": "```json\n{\n   \"filename\": \"image12.png\",\n   \"hinban\": \"XLW466ZENLE9\",\n   \"num_items\": \"1\",\n   \"serial_num\": \"なし\",\n   \"other\": \"LED照明、色温度5000K、HACCP仕様、ポルトフリー、アルミ鋼板、ステンレス、透明アクリル\"\n}\n```",
+        "processing_time": 2.52
+    },
+    {
+        "filename": "image13.png",
+        "error": "JSONパース失敗",
+        "raw_output": "```json\n{\n   \"filename\": \"image13.png\",\n   \"hinban\": \"X23C, X23A\",\n   \"num_items\": \"2\",\n   \"serial_num\": \"\",\n   \"other\": \"LED照明、色温度5000K、ボルトフリー、W=190以下\"\n}\n```",
+        "processing_time": 2.74
+    },
+    {
+        "filename": "image14.png",
+        "error": "JSONパース失敗",
+        "raw_output": "```json\n{\n   \"filename\": \"image14.png\",\n   \"hinban\": \"XLX465EHNKLE9, XLX465EHNKLA9, XLX435EENJLA9\",\n   \"num_items\": \"3\",\n   \"serial_num\": \"F39, F39C, F22C\",\n   \"other\": \"LED照明、色温度5000K\"\n}\n```",
+        "processing_time": 3.02
+    },
+    {
+        "filename": "image15.png",
+        "error": "JSONパース失敗",
+        "raw_output": "```json\n{\n   \"filename\": \"image15.png\",\n   \"hinban\": [\"XLX466EHNKL9\", \"XLX466EHNKLA9\"],\n   \"num_items\": \"2\",\n   \"serial_num\": \"Ga39C\",\n   \"other\": \"LED、色温度5000K、Ra: 83\"\n}\n```",
+        "processing_time": 1.83
+    },
+    {
+        "filename": "image16.png",
+        "hinban": "Gb59C",
+        "num_items": "1",
+        "serial_num": "FYY26621CLT9",
+        "other": "ボルトフリー、色温度4000K、Ra: 83",
+        "processing_time": 2.88
+    },
+    {
+        "filename": "image17.png",
+        "error": "JSONパース失敗",
+        "raw_output": "```json\n{\n   \"filename\": \"image17.png\",\n   \"hinban\": \"Gc43C, XL574PFVJLA9\",\n   \"num_items\": \"1\",\n   \"serial_num\": \"なし\",\n   \"other\": \"LED 43W以下, 約10~100%連続調光型, 本体: 鍛板, パネル: アクリル(乳白), 枠: アルミ, 色温度: 5,000K, Ra: 83\"\n}\n```",
+        "processing_time": 3.34
+    },
+    {
+        "filename": "image18.png",
+        "error": "JSONパース失敗",
+        "raw_output": "```json\n{\n   \"filename\": \"image18.png\",\n   \"hinban\": [\n      \"XNDN2501WLE9\",\n      \"XNDN2038WLE9\",\n      \"XNDN1001WLE9\",\n      \"XNDN1001WLLZ9\"\n   ],\n   \"num_items\": \"4\",\n   \"serial_num\": \"H402\",\n   \"other\": \"ポルトフリー、色温度3000K、Ra:85\"\n}\n```",
+        "processing_time": 6.07
+    },
+    {
+        "filename": "image19.png",
+        "error": "JSONパース失敗",
+        "raw_output": "```json\n{\n   \"filename\": \"image19.png\",\n   \"hinban\": \"XNDN1531WLE9\",\n   \"num_items\": \"1\",\n   \"serial_num\": \"Ha13\",\n   \"other\": \"LED照明、色温度3000K、反射板：アルミ、ボルトフリー\"\n}\n```",
+        "processing_time": 2.09
+    },
+    {
+        "filename": "image20.png",
+        "error": "JSONパース失敗",
+        "raw_output": "```json\n{\n   \"filename\": \"image20.png\",\n   \"hinban\": [\"XNNS2061WLLE9\", \"XNNS1061WLLE9\"],\n   \"num_items\": \"2\",\n   \"serial_num\": \"無し\",\n   \"other\": \"LED照明、色温度3000K, Ra: 85\"\n}\n```",
+        "processing_time": 7.8
+    },
+    {
+        "filename": "image21.png",
+        "error": "JSONパース失敗",
+        "raw_output": "```json\n{\n   \"filename\": \"image21.png\",\n   \"hinban\": [\"NYY16929LE9\", \"NYY16909LE9\"],\n   \"num_items\": \"2\",\n   \"serial_num\": \"なし\",\n   \"other\": \"LED照明、色温度3000K、Ra: 85、枠・反射板: アルミ\"\n}\n```",
+        "processing_time": 3.29
+    },
+    {
+        "filename": "image22.png",
+        "error": "JSONパース失敗",
+        "raw_output": "```json\n{\n   \"filename\": \"image22.png\",\n   \"hinban\": \"NYY56508\",\n   \"num_items\": \"1\",\n   \"serial_num\": \"なし\",\n   \"other\": \"ダウンライト、埋込穴450φ、色温度3500K、Ra: 85\"\n}\n```",
+        "processing_time": 2.09
+    },
+    {
+        "filename": "image23.png",
+        "error": "JSONパース失敗",
+        "raw_output": "```json\n{\n   \"filename\": \"image23.png\",\n   \"hinban\": \"XNDN2568PALE9\",\n   \"num_items\": \"1\",\n   \"serial_num\": \"Hf21\",\n   \"other\": \"LED 20.6W以下, 色温度5000K, Ra: 95, アルミダイカスト, パネル: アクリル\"\n}\n```",
+        "processing_time": 3.73
+    },
+    {
+        "filename": "image24.png",
+        "error": "JSONパース失敗",
+        "raw_output": "```json\n{\n   \"filename\": \"image24.png\",\n   \"hinban\": \"NDNN75055LZ9\",\n   \"num_items\": \"1\",\n   \"serial_num\": \"Hg36C\",\n   \"other\": \"LED、色温度5000K\"\n}\n```",
+        "processing_time": 2.82
+    },
+    {
+        "filename": "image25.png",
+        "error": "JSONパース失敗",
+        "raw_output": "```json\n{\n   \"filename\": \"image25.png\",\n   \"hinban\": \"EDL20003W\",\n   \"num_items\": \"1\",\n   \"serial_num\": \"なし\",\n   \"other\": \"LED 15.9W以下、色温度5000K、Ra: 85、ボルトフリー\"\n}\n```",
+        "processing_time": 2.97
+    },
+    {
+        "filename": "image26.png",
+        "error": "JSONパース失敗",
+        "raw_output": "```json\n{\n   \"filename\": \"image26.png\",\n   \"hinban\": \"NDNN77270LZ9\",\n   \"num_items\": \"1\",\n   \"serial_num\": \"Hj54W\",\n   \"other\": \"ダウンライト軒下用、LED 53.5W、色温度5000K、Ra: 70\"\n}\n```",
+        "processing_time": 4.03
+    },
+    {
+        "filename": "image27.png",
+        "hinban": "商品番号なし",
+        "num_items": "0",
+        "serial_num": "*****",
+        "other": "Hk15W LED 15W以下、ユニバーサルダウンライト",
+        "processing_time": 2.14
+    },
+    {
+        "filename": "image28.png",
+        "error": "JSONパース失敗",
+        "raw_output": "```json\n{\n   \"filename\": \"image28.png\",\n   \"hinban\": \"LGBZ5150\",\n   \"num_items\": \"1\",\n   \"serial_num\": \"181\",\n   \"other\": \"LED 81W以下、色温度調整（3,000-6,500K）、Ra: 83、カバー: アクリル\"\n}\n```",
+        "processing_time": 3.33
+    },
+    {
+        "filename": "image29.png",
+        "error": "JSONパース失敗",
+        "raw_output": "```json\n{\n   \"filename\": \"image29.png\",\n   \"hinban\": [\n      \"NNF26732ZLT9\",\n      \"NNF46732ZLT9\"\n   ],\n   \"num_items\": \"2\",\n   \"serial_num\": \"なし\",\n   \"other\": \"LED照明、色温度3500K\"\n}\n```",
+        "processing_time": 7.01
+    },
+    {
+        "filename": "image30.png",
+        "error": "JSONパース失敗",
+        "raw_output": "```json\n{\n   \"filename\": \"image30.png\",\n   \"hinban\": [\n       \"LCL-0250-100-W-DF-I\",\n       \"LCL-0500-100-W-DF-I\",\n       \"LCL-0750-100-W-DF-I\",\n       \"LCL-1000-100-W-DF-I\",\n       \"LCL-1250-100-W-DF-I\",\n       \"LCL-1500-100-W-DF-I\"\n   ],\n   \"num_items\": \"6\",\n   \"serial_num\": \"商品番号なし\",\n   \"other\": \"100V専用、アルミ、ポリカーボネート、色温度: 4200K\"\n}\n```",
+        "processing_time": 2.78
+    },
+    {
+        "filename": "image31.png",
+        "error": "JSONパース失敗",
+        "raw_output": "```json\n{\n   \"filename\": \"image31.png\",\n   \"hinban\": \"NNY21595LE1\",\n   \"num_items\": \"1\",\n   \"serial_num\": \"J22W\",\n   \"other\": \"LED, 本体: アルミ, 前面パネル: アクリル, 防湿型, 色温度: 4000K, Ra: 85\"\n}\n```",
+        "processing_time": 1.97
+    },
+    {
+        "filename": "image32.png",
+        "error": "JSONパース失敗",
+        "raw_output": "```json\n{\n   \"filename\": \"image32.png\",\n   \"hinban\": \"NTS02016WLE1\",\n   \"num_items\": \"1\",\n   \"serial_num\": \"K20\",\n   \"other\": \"LED 19.3W以下, 1,370lm, 100V専用, 灯具:アルミダイカスト, 首振範囲約90度, 色温度:4000K, Ra:95\"\n}\n```",
+        "processing_time": 2.55
+    },
+    {
+        "filename": "image33.png",
+        "error": "JSONパース失敗",
+        "raw_output": "```json\n{\n   \"filename\": \"image33.png\",\n   \"hinban\": \"LGB84550LE1\",\n   \"num_items\": \"1\",\n   \"serial_num\": \"L10\",\n   \"other\": \"LED照明、出力9.7W、色温度2700K\"\n}\n```",
+        "processing_time": 2.35
+    },
+    {
+        "filename": "image34.png",
+        "error": "JSONパース失敗",
+        "raw_output": "```json\n{\n   \"filename\": \"image34.png\",\n   \"hinban\": \"AD-2679-N\",\n   \"num_items\": \"1\",\n   \"serial_num\": \"\",\n   \"other\": \"100V専用、LED 4.6W以下、色温度: 5000K、Ra: 70\"\n}\n```",
+        "processing_time": 8.61
+    }
+]

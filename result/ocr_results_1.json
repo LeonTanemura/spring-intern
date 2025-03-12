@@ -1,0 +1,182 @@
+[
+    {
+        "filename": "image0.png",
+        "error": "JSONパース失敗",
+        "raw_output": "```json\n{\n   \"filename\": \"image0.png\",\n   \"hinban\": [\"NNF41030LE9\", \"LDL40S\"],\n   \"num_items\": \"30\",\n   \"serial_num\": \"A401\",\n   \"other\": \"適合ランプ：直管LEDランプ用、電圧100-242V、ランプ素材：ガラス容器、Ra:84、光源寿命40000時間\"\n}\n```",
+        "processing_time": 2.23
+    },
+    {
+        "filename": "image1.png",
+        "error": "JSONパース失敗",
+        "raw_output": "```json\n{\n   \"filename\": \"image1.png\",\n   \"hinban\": \"XLX460UEN LE9\",\n   \"num_items\": \"8\",\n   \"serial_num\": \"B402\",\n   \"other\": \"LED40形W、光束色40000時間、色温度5000K\"\n}\n```",
+        "processing_time": 2.34
+    },
+    {
+        "filename": "image2.png",
+        "error": "JSONパース失敗",
+        "raw_output": "```json\n{\n   \"filename\": \"image2.png\",\n   \"hinban\": \"NNFW42001K LE9\",\n   \"num_items\": \"6\",\n   \"serial_num\": \"C402\",\n   \"other\": \"（ガラス管）、色温度40000時間\"\n}\n```",
+        "processing_time": 2.25
+    },
+    {
+        "filename": "image3.png",
+        "error": "JSONパース失敗",
+        "raw_output": "```json\n{\n   \"filename\": \"image3.png\",\n   \"hinban\": \"NNFW41001\",\n   \"num_items\": \"10\",\n   \"serial_num\": \"D401\",\n   \"other\": \"LEDランプ、色温度40000時間\"\n}\n```",
+        "processing_time": 1.92
+    },
+    {
+        "filename": "image4.png",
+        "error": "JSONパース失敗",
+        "raw_output": "```json\n{\n   \"filename\": \"image4.png\",\n   \"hinban\": \"FYY26912J\",\n   \"num_items\": \"49\",\n   \"serial_num\": \"E401\",\n   \"other\": \"LED40形、色温度3500K、功率40W\"\n}\n```",
+        "processing_time": 2.98
+    },
+    {
+        "filename": "image5.png",
+        "error": "JSONパース失敗",
+        "raw_output": "```json\n{\n   \"filename\": \"image5.png\",\n   \"hinban\": \"XLX430AEN LE9\",\n   \"num_items\": \"6\",\n   \"serial_num\": \"F401\",\n   \"other\": \"LED照明、色温度5000K、光束角度4000lm、Ra83\"\n}\n```",
+        "processing_time": 2.14
+    },
+    {
+        "filename": "image6.png",
+        "error": "JSONパース失敗",
+        "raw_output": "```json\n{\n   \"filename\": \"image6.png\",\n   \"hinban\": \"G401, XLX430NEN LE9\",\n   \"num_items\": \"2\",\n   \"serial_num\": \"なし\",\n   \"other\": \"LED40形、光源色: 5000K, Ra83\"\n}\n```",
+        "processing_time": 2.36
+    },
+    {
+        "filename": "image7.png",
+        "error": "JSONパース失敗",
+        "raw_output": "```json\n{\n   \"filename\": \"image7.png\",\n   \"hinban\": \"NNFW42500K LE9\",\n   \"num_items\": \"2\",\n   \"serial_num\": \"H402\",\n   \"other\": \"LED40形x2、色温度5000K、動作型、光源寿命40000時間（光束維持率95%）\"\n}\n```",
+        "processing_time": 2.96
+    },
+    {
+        "filename": "image8.png",
+        "error": "JSONパース失敗",
+        "raw_output": "```json\n{\n   \"filename\": \"image8.png\",\n   \"hinban\": \"NNN71067Z\",\n   \"num_items\": \"31\",\n   \"serial_num\": \"LE1\",\n   \"other\": \"LED60形、6.5W、色温度3500K、RA85、照度500lm\"\n}\n```",
+        "processing_time": 2.82
+    },
+    {
+        "filename": "image9.png",
+        "error": "JSONパース失敗",
+        "raw_output": "```json\n{\n   \"filename\": \"image9.png\",\n   \"hinban\": \"NNN72067\",\n   \"num_items\": \"26\",\n   \"serial_num\": \"J100\",\n   \"other\": \"LED照明、色温度3500K、消費電力10W、定格電圧100V-242V\"\n}\n```",
+        "processing_time": 7.33
+    },
+    {
+        "filename": "image10.png",
+        "error": "JSONパース失敗",
+        "raw_output": "```json\n{\n   \"filename\": \"image10.png\",\n   \"hinban\": \"NNN73067Z\",\n   \"num_items\": \"90\",\n   \"serial_num\": \"K150\",\n   \"other\": \"LED150形（14.7W）、色温度3500K、Ra85、器具タイプ、消費電力14.7W、電圧100〜242V\"\n}\n```",
+        "processing_time": 3.67
+    },
+    {
+        "filename": "image11.png",
+        "error": "JSONパース失敗",
+        "raw_output": "```json\n{\n   \"filename\": \"image11.png\",\n   \"hinban\": \"NDNN74067Z\",\n   \"num_items\": \"27\",\n   \"serial_num\": \"なし\",\n   \"other\": \"LED200形、19.9W、色温度3500K、Ra85\"\n}\n```",
+        "processing_time": 4.97
+    },
+    {
+        "filename": "image12.png",
+        "error": "JSONパース失敗",
+        "raw_output": "```json\n{\n   \"filename\": \"image12.png\",\n   \"hinban\": \"NNN74025K\",\n   \"num_items\": \"6\",\n   \"serial_num\": \"M200\",\n   \"other\": \"LED照明、色温度5000K、Ra70、明るさ19401lm、消費電力19W\"\n}\n```",
+        "processing_time": 3.87
+    },
+    {
+        "filename": "image13.png",
+        "error": "JSONパース失敗",
+        "raw_output": "```json\n{\n   \"filename\": \"image13.png\",\n   \"hinban\": \"堀込XL574PFF\",\n   \"num_items\": \"28\",\n   \"serial_num\": \"N44\",\n   \"other\": \"LED44W（FHP32W×4灯タイプ）、照明色（3500K）\"\n}\n```",
+        "processing_time": 3.01
+    },
+    {
+        "filename": "image14.png",
+        "error": "JSONパース失敗",
+        "raw_output": "```json\n{\n   \"filename\": \"image14.png\",\n   \"hinban\": \"NNN17032\",\n   \"num_items\": \"24\",\n   \"serial_num\": \"\",\n   \"other\": \"LEDペンダント、色温度3500K、光束7625lm、電源100～242V\"\n}\n```",
+        "processing_time": 3.19
+    },
+    {
+        "filename": "image15.png",
+        "error": "JSONパース失敗",
+        "raw_output": "```json\n{\n   \"filename\": \"image15.png\",\n   \"hinban\": \"LGW51630\",\n   \"num_items\": \"13\",\n   \"serial_num\": \"なし\",\n   \"other\": \"LED丸形蛍光灯30形、色温度5000K、Ra85\"\n}\n```",
+        "processing_time": 1.88
+    },
+    {
+        "filename": "image16.png",
+        "error": "JSONパース失敗",
+        "raw_output": "```json\n{\n   \"filename\": \"image16.png\",\n   \"hinban\": \"NNN11110\",\n   \"num_items\": \"28\",\n   \"serial_num\": \"\",\n   \"other\": \"LED照明、形状: Q40、消費電力: 5W、電圧: 100V\"\n}\n```",
+        "processing_time": 2.38
+    },
+    {
+        "filename": "image17.png",
+        "error": "JSONパース失敗",
+        "raw_output": "```json\n{\n   \"filename\": \"image17.png\",\n   \"hinban\": \"LGB87082\",\n   \"num_items\": \"5\",\n   \"serial_num\": \"商品番号なし\",\n   \"other\": \"LED40形（5.2W）、R40、ツミキシタ式\"\n}\n```",
+        "processing_time": 2.26
+    },
+    {
+        "filename": "image18.png",
+        "error": "JSONパース失敗",
+        "raw_output": "```json\n{\n   \"filename\": \"image18.png\",\n   \"hinban\": \"LGBZ2117\",\n   \"num_items\": \"1\",\n   \"serial_num\": \"S49\",\n   \"other\": \"LED49W, 色温度6500K/3000K, 取付方式カッティングF\"\n}\n```",
+        "processing_time": 2.38
+    },
+    {
+        "filename": "image19.png",
+        "error": "JSONパース失敗",
+        "raw_output": "```json\n{\n   \"filename\": \"image19.png\",\n   \"hinban\": \"LGBZ2117\",\n   \"num_items\": \"1\",\n   \"serial_num\": \"T43\",\n   \"other\": \"LED43W、色温度6500K/3000K\"\n}\n```",
+        "processing_time": 1.88
+    },
+    {
+        "filename": "image20.png",
+        "error": "JSONパース失敗",
+        "raw_output": "```json\n{\n   \"filename\": \"image20.png\",\n   \"hinban\": \"LGB11600K\",\n   \"num_items\": \"2\",\n   \"serial_num\": \"U603\",\n   \"other\": \"LED60形×3（30W）、色温度2700K\"\n}\n```",
+        "processing_time": 2.52
+    },
+    {
+        "filename": "image21.png",
+        "error": "JSONパース失敗",
+        "raw_output": "```json\n{\n   \"filename\": \"image21.png\",\n   \"hinban\": \"LGB16038\",\n   \"num_items\": \"12\",\n   \"serial_num\": \"なし\",\n   \"other\": \"LED照明、色温度Ra80\"\n}\n```",
+        "processing_time": 3.02
+    },
+    {
+        "filename": "image22.png",
+        "error": "JSONパース失敗",
+        "raw_output": "```json\n{\n   \"filename\": \"image22.png\",\n   \"hinban\": \"NNN02711W\",\n   \"num_items\": \"6\",\n   \"serial_num\": \"\",\n   \"other\": \"LED100形、10.3W、色温度3500K, RA85\"\n}\n```",
+        "processing_time": 2.5
+    },
+    {
+        "filename": "image23.png",
+        "error": "JSONパース失敗",
+        "raw_output": "```json\n{\n   \"filename\": \"image23.png\",\n   \"hinban\": \"NMB-3202P\",\n   \"num_items\": \"1\",\n   \"serial_num\": \"X20\",\n   \"other\": \"ミラーボール203φ\"\n}\n```",
+        "processing_time": 2.51
+    },
+    {
+        "filename": "image24.png",
+        "error": "JSONパース失敗",
+        "raw_output": "```json\n{\n   \"filename\": \"image24.png\",\n   \"hinban\": \"NDNN73751W\",\n   \"num_items\": \"1\",\n   \"serial_num\": \"Y150\",\n   \"other\": \"LED150形 (20.9W)、色温度4000K, Ra92\"\n}\n```",
+        "processing_time": 3.39
+    },
+    {
+        "filename": "image25.png",
+        "error": "JSONパース失敗",
+        "raw_output": "```json\n{\n   \"filename\": \"image25.png\",\n   \"hinban\": \"NNY24110H\",\n   \"num_items\": \"3\",\n   \"serial_num\": \"\",\n   \"other\": \"LED100形 (10.7W), 防雨型, 色温度非記載\"\n}\n```",
+        "processing_time": 2.51
+    },
+    {
+        "filename": "image26.png",
+        "error": "JSONパース失敗",
+        "raw_output": "```json\n{\n   \"filename\": \"image26.png\",\n   \"hinban\": \"NNY22197\",\n   \"num_items\": \"1\",\n   \"serial_num\": \"なし\",\n   \"other\": \"LED水銀灯250形（62W）、色温度5000K、Ra70\"\n}\n```",
+        "processing_time": 3.22
+    },
+    {
+        "filename": "image27.png",
+        "error": "JSONパース失敗",
+        "raw_output": "```json\n{\n   \"filename\": \"image27.png\",\n   \"hinban\": \"LGWC56020B\",\n   \"num_items\": \"3\",\n   \"serial_num\": \"なし\",\n   \"other\": \"LED40形（5.2W）、電線色: 白（白色）、光束: 130lm、色温度: 4000K\"\n}\n```",
+        "processing_time": 2.88
+    },
+    {
+        "filename": "image28.png",
+        "error": "JSONパース失敗",
+        "raw_output": "```json\n{\n   \"filename\": \"image28.png\",\n   \"hinban\": \"LGWC40100\",\n   \"num_items\": \"3\",\n   \"serial_num\": \"なし\",\n   \"other\": \"LED100形、13W、光源寿命40000時間、光束維持率70%\"\n}\n```",
+        "processing_time": 2.65
+    },
+    {
+        "filename": "image29.png",
+        "error": "JSONパース失敗",
+        "raw_output": "```json\n{\n   \"filename\": \"image29.png\",\n   \"hinban\": \"XLGEC510HLE9\",\n   \"num_items\": \"1\",\n   \"serial_num\": \"なし\",\n   \"other\": \"LED40形（5.2W）、防雨型、光源4000K（光束維持率70%）\"\n}\n```",
+        "processing_time": 3.03
+    }
+]

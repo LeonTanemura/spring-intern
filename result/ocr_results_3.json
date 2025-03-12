@@ -1,0 +1,218 @@
+[
+    {
+        "filename": "image0.png",
+        "error": "JSONパース失敗",
+        "raw_output": "```json\n{\n   \"filename\": \"image0.png\",\n   \"hinban\": [\n       \"BL1-01\",\n       \"BL1-02\",\n       \"BL1-03\",\n       \"BL1-04\",\n       \"XLX450AENPLE9\",\n       \"XLX440AENULE9\",\n       \"XLX430AENPLE9\",\n       \"XLX420AENPLE9\"\n   ],\n   \"num_items\": \"4\",\n   \"serial_num\": \"なし\",\n   \"other\": \"バナソニック、色温度5000K\"\n}\n```",
+        "processing_time": 4.98
+    },
+    {
+        "filename": "image1.png",
+        "error": "JSONパース失敗",
+        "raw_output": "```json\n{\n   \"filename\": \"image1.png\",\n   \"hinban\": \"XLX430ENPLE9+FSK41020\",\n   \"num_items\": \"1\",\n   \"serial_num\": \"BL2\",\n   \"other\": \"パナソニック、3200lm、20.6w、色温度5000K\"\n}\n```",
+        "processing_time": 2.55
+    },
+    {
+        "filename": "image2.png",
+        "error": "JSONパース失敗",
+        "raw_output": "```json\n{\n   \"filename\": \"image2.png\",\n   \"hinban\": [\"XLX460MENTLE9\", \"XLX450MENTLE9\"],\n   \"num_items\": \"2\",\n   \"serial_num\": \"BL3-01, BL3-02\",\n   \"other\": \"パナソニック、色温度5000K\"\n}\n```",
+        "processing_time": 2.31
+    },
+    {
+        "filename": "image3.png",
+        "error": "JSONパース失敗",
+        "raw_output": "```json\n{\n   \"filename\": \"image3.png\",\n   \"hinban\": [\"BL4-01\", \"BL4-03\", \"XLX460PENTLE9\", \"XLX450PENTLE9\"],\n   \"num_items\": \"2\",\n   \"serial_num\": \"\",\n   \"other\": \"照明器具、色温度5000K、ブランド: パナソニック\"\n}\n```",
+        "processing_time": 2.2
+    },
+    {
+        "filename": "image4.png",
+        "error": "JSONパース失敗",
+        "raw_output": "```json\n{\n   \"filename\": \"image4.png\",\n   \"hinban\": \"XLX460PENTLR9\",\n   \"num_items\": \"1\",\n   \"serial_num\": \"BL4-02\",\n   \"other\": \"パナソニック、照明、6680lm、43.1w、色温度5000K\"\n}\n```",
+        "processing_time": 7.17
+    },
+    {
+        "filename": "image5.png",
+        "error": "JSONパース失敗",
+        "raw_output": "```json\n{\n   \"filename\": \"image5.png\",\n   \"hinban\": \"XLW453AENZLE9\",\n   \"num_items\": \"1\",\n   \"serial_num\": \"BL5\",\n   \"other\": \"パナソニック、軒下用ベースライト、4940lm 32.5w、色温度5000K\"\n}\n```",
+        "processing_time": 4.22
+    },
+    {
+        "filename": "image6.png",
+        "error": "JSONパース失敗",
+        "raw_output": "```json\n{\n   \"filename\": \"image6.png\",\n   \"hinban\": \"NNN13510LE1\",\n   \"num_items\": \"1\",\n   \"serial_num\": \"BR2\",\n   \"other\": \"パナソニック、1350lm、11.7w、色温度5000K\"\n}\n```",
+        "processing_time": 2.21
+    },
+    {
+        "filename": "image7.png",
+        "error": "JSONパース失敗",
+        "raw_output": "```json\n{\n   \"filename\": \"image7.png\",\n   \"hinban\": \"NDNN57711KLZ9\",\n   \"num_items\": \"1\",\n   \"serial_num\": \"商品番号なし\",\n   \"other\": \"パナソニック、7505lm、59.1w、4000K\"\n}\n```",
+        "processing_time": 3.19
+    },
+    {
+        "filename": "image8.png",
+        "error": "JSONパース失敗",
+        "raw_output": "```json\n{\n   \"filename\": \"image8.png\",\n   \"hinban\": \"FYY26409LA9\",\n   \"num_items\": \"1\",\n   \"serial_num\": \"商品番号なし\",\n   \"other\": \"パナソニック、出力8340lm、82w、色温度3500K\"\n}\n```",
+        "processing_time": 2.21
+    },
+    {
+        "filename": "image9.png",
+        "error": "JSONパース失敗",
+        "raw_output": "```json\n{\n   \"filename\": \"image9.png\",\n   \"hinban\": \"NYY65942, NYY91300S, NTS90354L9\",\n   \"num_items\": \"1\",\n   \"serial_num\": \"E\",\n   \"other\": \"パナソニック、1770lm、27.4w、3500K\"\n}\n```",
+        "processing_time": 2.06
+    },
+    {
+        "filename": "image10.png",
+        "error": "JSONパース失敗",
+        "raw_output": "```json\n{\n   \"filename\": \"image10.png\",\n   \"hinban\": \"NTS72732W NTS90201\",\n   \"num_items\": \"1\",\n   \"serial_num\": \"J9\",\n   \"other\": \"パナソニック、DL7、TOLSOダウンライト、935lm、15.4w、色温度3500K\"\n}\n```",
+        "processing_time": 2.53
+    },
+    {
+        "filename": "image11.png",
+        "error": "JSONパース失敗",
+        "raw_output": "```json\n{\n   \"filename\": \"image11.png\",\n   \"hinban\": \"NYY63232, NTS90200L\",\n   \"num_items\": \"1\",\n   \"serial_num\": \"なし\",\n   \"other\": \"パナソニック、LED照明、色温度3500K、出力1140lm、消費電力19.5w、広角42°\"\n}\n```",
+        "processing_time": 2.32
+    },
+    {
+        "filename": "image12.png",
+        "error": "JSONパース失敗",
+        "raw_output": "```json\n{\n   \"filename\": \"image12.png\",\n   \"hinban\": \"NYY65942+NYY91300B+NTS905511L19\",\n   \"num_items\": \"1\",\n   \"serial_num\": \"DL10\",\n   \"other\": \"パナソニック、2470lm、43w、広角48度、3500K\"\n}\n```",
+        "processing_time": 2.48
+    },
+    {
+        "filename": "image13.png",
+        "error": "JSONパース失敗",
+        "raw_output": "```json\n{\n   \"filename\": \"image13.png\",\n   \"hinban\": \"NYY63222\",\n   \"num_items\": \"1\",\n   \"serial_num\": \"E\",\n   \"other\": \"パナソニック、1405lm、19.5w、色温度3500K、広角30°\"\n}\n```",
+        "processing_time": 2.38
+    },
+    {
+        "filename": "image14.png",
+        "error": "JSONパース失敗",
+        "raw_output": "```json\n{\n   \"filename\": \"image14.png\",\n   \"hinban\": \"NYY63212+NTS90201L9, NYY63212+NTS90151L9\",\n   \"num_items\": \"2\",\n   \"serial_num\": \"DL12, DL13\",\n   \"other\": \"ブランド名: パナソニック, 色温度: 3500K, 調光器具\"\n}\n```",
+        "processing_time": 3.39
+    },
+    {
+        "filename": "image15.png",
+        "error": "JSONパース失敗",
+        "raw_output": "```json\n{\n   \"filename\": \"image15.png\",\n   \"hinban\": [\"XND2039WNLE9\", \"XND1539WNLE9\", \"XND1039WNLE9\"],\n   \"num_items\": \"3\",\n   \"serial_num\": \"なし\",\n   \"other\": \"ダウンライト、色温度5000K\"\n}\n```",
+        "processing_time": 2.49
+    },
+    {
+        "filename": "image16.png",
+        "error": "JSONパース失敗",
+        "raw_output": "```json\n{\n   \"filename\": \"image16.png\",\n   \"hinban\": \"NYY65922+NYY91300S+NTS905511L9\",\n   \"num_items\": \"1\",\n   \"serial_num\": \"DL16\",\n   \"other\": \"ブランド: パナソニック、光束: 2620lm、消費電力: 43W、色温度: 3500K\"\n}\n```",
+        "processing_time": 3.73
+    },
+    {
+        "filename": "image17.png",
+        "error": "JSONパース失敗",
+        "raw_output": "```json\n{\n   \"filename\": \"image17.png\",\n   \"hinban\": \"XND0638WNLE9\",\n   \"num_items\": \"1\",\n   \"serial_num\": \"CL19\",\n   \"other\": \"パナソニック、ダウンライト、色温度5000K、消費電力4.2W\"\n}\n```",
+        "processing_time": 8.59
+    },
+    {
+        "filename": "image18.png",
+        "error": "JSONパース失敗",
+        "raw_output": "```json\n{\n   \"filename\": \"image18.png\",\n   \"hinban\": \"NYY72124+NTS90151\",\n   \"num_items\": \"1\",\n   \"serial_num\": \"E\",\n   \"other\": \"パナソニック、765lm、12w、色温度2700K\"\n}\n```",
+        "processing_time": 2.27
+    },
+    {
+        "filename": "image19.png",
+        "error": "JSONパース失敗",
+        "raw_output": "```json\n{\n   \"filename\": \"image19.png\",\n   \"hinban\": \"PAVH07520WWP35+NTS95200LJ9\",\n   \"num_items\": \"1\",\n   \"serial_num\": \"WY1\",\n   \"other\": \"パナソニック、出力515lm、色温度3500K\"\n}\n```",
+        "processing_time": 2.09
+    },
+    {
+        "filename": "image20.png",
+        "error": "JSONパース失敗",
+        "raw_output": "```json\n{\n   \"filename\": \"image20.png\",\n   \"hinban\": \"NTN82062K,NTS90355LJ9\",\n   \"num_items\": \"1\",\n   \"serial_num\": \"なし\",\n   \"other\": \"パナソニック、出力2275lm、消費電力33.8W、色温度3500K\"\n}\n```",
+        "processing_time": 3.08
+    },
+    {
+        "filename": "image21.png",
+        "error": "JSONパース失敗",
+        "raw_output": "```json\n{\n   \"filename\": \"image21.png\",\n   \"hinban\": \"PAVH100035UVWP/N/35NTS90354LJ9\",\n   \"num_items\": \"1\",\n   \"serial_num\": \"KDL2\",\n   \"other\": \"パナソニック、820lm、色温度3500K\"\n}\n```",
+        "processing_time": 3.27
+    },
+    {
+        "filename": "image22.png",
+        "error": "JSONパース失敗",
+        "raw_output": "```json\n{\n   \"filename\": \"image22.png\",\n   \"hinban\": \"PAVH10035DLWP\",\n   \"num_items\": \"1\",\n   \"serial_num\": \"E\",\n   \"other\": \"ブランド名: パナソニック、仕様: 1540lm、色温度: 3500K、角度: 22°\"\n}\n```",
+        "processing_time": 2.21
+    },
+    {
+        "filename": "image23.png",
+        "error": "JSONパース失敗",
+        "raw_output": "```json\n{\n   \"filename\": \"image23.png\",\n   \"hinban\": [\n      \"NYY1202200-Q1NTS95150L9\",\n      \"NYY1203201-Q1NTS95150L9\"\n   ],\n   \"num_items\": \"2\",\n   \"serial_num\": \"なし\",\n   \"other\": \"ブランド：パナソニック、照明タイプ：レストラン用\"\n}\n```",
+        "processing_time": 2.64
+    },
+    {
+        "filename": "image24.png",
+        "error": "JSONパース失敗",
+        "raw_output": "```json\n{\n   \"filename\": \"image24.png\",\n   \"hinban\": [\n       \"NNF40902LR9\",\n       \"NNF41202LR9\",\n       \"NNF41502LR9\"\n   ],\n   \"num_items\": \"3\",\n   \"serial_num\": \"なし\",\n   \"other\": \"パナソニック、色温度3500K\"\n}\n```",
+        "processing_time": 2.21
+    },
+    {
+        "filename": "image25.png",
+        "error": "JSONパース失敗",
+        "raw_output": "```json\n{\n   \"filename\": \"image25.png\",\n   \"hinban\": [\"NTN839394\", \"NTN834424\"],\n   \"num_items\": \"4\",\n   \"serial_num\": \"なし\",\n   \"other\": \"ブランド名: パナソニック、色温度: 2700K\"\n}\n```",
+        "processing_time": 2.14
+    },
+    {
+        "filename": "image26.png",
+        "error": "JSONパース失敗",
+        "raw_output": "```json\n{\n   \"filename\": \"image26.png\",\n   \"hinban\": \"NTN83264\",\n   \"num_items\": \"1\",\n   \"serial_num\": \"なし\",\n   \"other\": \"パナソニック、LEDsウェーブ 50lm 1w、入線コード: NTN87021、端末コード: NTN87022、電源BOX: NTN87020\"\n}\n```",
+        "processing_time": 3.83
+    },
+    {
+        "filename": "image27.png",
+        "error": "JSONパース失敗",
+        "raw_output": "```json\n{\n   \"filename\": \"image27.png\",\n   \"hinban\": \"XP44539L\",\n   \"num_items\": \"1\",\n   \"serial_num\": \"PN2\",\n   \"other\": \"LEDペンダント、光束1435lm、消費電力26.4w、色温度2700K\"\n}\n```",
+        "processing_time": 1.98
+    },
+    {
+        "filename": "image28.png",
+        "error": "JSONパース失敗",
+        "raw_output": "```json\n{\n   \"filename\": \"image28.png\",\n   \"hinban\": \"XP44542L\",\n   \"num_items\": \"1\",\n   \"serial_num\": \"PN3\",\n   \"other\": \"LEDペンダント、930lm、26.4w、色温度2700K\"\n}\n```",
+        "processing_time": 2.36
+    },
+    {
+        "filename": "image29.png",
+        "error": "JSONパース失敗",
+        "raw_output": "```json\n{\n   \"filename\": \"image29.png\",\n   \"hinban\": \"AP46938L\",\n   \"num_items\": \"1\",\n   \"serial_num\": \"PN4\",\n   \"other\": \"LEDペンダント、495lm、5.8w、色温度2700K\"\n}\n```",
+        "processing_time": 2.64
+    },
+    {
+        "filename": "image30.png",
+        "error": "JSONパース失敗",
+        "raw_output": "```json\n{\n   \"filename\": \"image30.png\",\n   \"hinban\": [\n       \"NYT1034RK03-Q\",\n       \"NYT1024RK02-Q\"\n   ],\n   \"num_items\": \"2\",\n   \"serial_num\": \"商品番号なし\",\n   \"other\": \"ブランド名: パナソニック, 仕様: スポットライト, 色温度: 3000K\"\n}\n```",
+        "processing_time": 1.99
+    },
+    {
+        "filename": "image31.png",
+        "error": "JSONパース失敗",
+        "raw_output": "```json\n{\n   \"filename\": \"image31.png\",\n   \"hinban\": \"NYT1024R02-Q+NYK5000201-Q1\",\n   \"num_items\": \"1\",\n   \"serial_num\": \"商品番号なし\",\n   \"other\": \"パナソニック製、出力1830lm、色温度3000K\"\n}\n```",
+        "processing_time": 1.87
+    },
+    {
+        "filename": "image32.png",
+        "error": "JSONパース失敗",
+        "raw_output": "```json\n{\n   \"filename\": \"image32.png\",\n   \"hinban\": \"YYY31134K00QYYY95061\",\n   \"num_items\": \"1\",\n   \"serial_num\": \"SP8\",\n   \"other\": \"パナソニック、スポットライト、色温度3000K、出力1165lm\"\n}\n```",
+        "processing_time": 2.84
+    },
+    {
+        "filename": "image33.png",
+        "error": "JSONパース失敗",
+        "raw_output": "```json\n{\n   \"filename\": \"image33.png\",\n   \"hinban\": \"YYY1616100-Q+LLD3020LCE1\",\n   \"num_items\": \"1\",\n   \"serial_num\": \"LP1\",\n   \"other\": \"パナソニック、フットライト、795lm、7.7w、2700K\"\n}\n```",
+        "processing_time": 2.03
+    },
+    {
+        "filename": "image34.png",
+        "error": "JSONパース失敗",
+        "raw_output": "```json\n{\n   \"filename\": \"image34.png\",\n   \"hinban\": \"FSK90771Z\",\n   \"num_items\": \"1\",\n   \"serial_num\": \"商品番号なし\",\n   \"other\": \"パナソニック、センサー付自動調光ユニット\"\n}\n```",
+        "processing_time": 2.89
+    },
+    {
+        "filename": "image35.png",
+        "error": "JSONパース失敗",
+        "raw_output": "```json\n{\n   \"filename\": \"image35.png\",\n   \"hinban\": \"FSK90941U\",\n   \"num_items\": \"1\",\n   \"serial_num\": \"商品番号なし\",\n   \"other\": \"パナソニック、リモコン\"\n}\n```",
+        "processing_time": 6.39
+    }
+]

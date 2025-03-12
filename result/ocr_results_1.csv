@@ -1,0 +1,271 @@
+﻿Index,画像ファイル,OCR結果
+0,image0.png,"```json
+{
+   ""filename"": ""image0.png"",
+   ""hinban"": ""NNF41030 LE9, LDL40S"",
+   ""num_items"": ""30"",
+   ""serial_num"": ""A401"",
+   ""other"": ""LEDランプ用、適合ランプ: LEDランプ用、電圧: 100-242V、ランプ材質: ガラス、Ra: 84""
+}
+```"
+1,image1.png,"```json
+{
+   ""filename"": ""image1.png"",
+   ""hinban"": ""XLX460UEN LE9, LDL40S"",
+   ""num_items"": ""8"",
+   ""serial_num"": ""B402"",
+   ""other"": ""LED照明、色温度5000K""
+}
+```"
+2,image2.png,"```json
+{
+   ""filename"": ""image2.png"",
+   ""hinban"": ""NNFW42001K LE9, LDL40Sx2"",
+   ""num_items"": ""6"",
+   ""serial_num"": ""C402"",
+   ""other"": ""直管LEDランプ、定格100-242V、光源寿命40000時間""
+}
+```"
+3,image3.png,"```json
+{
+   ""filename"": ""image3.png"",
+   ""hinban"": ""NNFW41001"",
+   ""num_items"": ""10"",
+   ""serial_num"": ""D401"",
+   ""other"": ""LDL40形、LEDランプ、光束約40000時間""
+}
+```"
+4,image4.png,"```json
+{
+   ""filename"": ""image4.png"",
+   ""hinban"": ""FYY26912J"",
+   ""num_items"": ""49"",
+   ""serial_num"": ""E401"",
+   ""other"": ""LED40形、色温度3500K""
+}
+```"
+5,image5.png,"```json
+{
+   ""filename"": ""image5.png"",
+   ""hinban"": ""XLX430AEN LE9"",
+   ""num_items"": ""6"",
+   ""serial_num"": ""F401"",
+   ""other"": ""LED照明、色温度5000K""
+}
+```"
+6,image6.png,"```json
+{
+   ""filename"": ""image6.png"",
+   ""hinban"": ""XLX430NEN LE9"",
+   ""num_items"": ""2"",
+   ""serial_num"": ""G401"",
+   ""other"": ""LED40形, 光色: 白色(5000K), ラジウム83""
+}
+```"
+7,image7.png,"```json
+{
+   ""filename"": ""image7.png"",
+   ""hinban"": ""NNFW42500K LE9"",
+   ""num_items"": ""2"",
+   ""serial_num"": ""H402"",
+   ""other"": ""LED照明、色温度4000K、プラスチック（白）""
+}
+```"
+8,image8.png,"```json
+{
+   ""filename"": ""image8.png"",
+   ""hinban"": ""NNN71067Z"",
+   ""num_items"": ""31"",
+   ""serial_num"": ""LE1"",
+   ""other"": ""LED照明、色温度3500K、消費電力6W""
+}
+```"
+9,image9.png,"```json
+{
+   ""filename"": ""image9.png"",
+   ""hinban"": ""NNN72067Z"",
+   ""num_items"": ""26"",
+   ""serial_num"": ""J100"",
+   ""other"": ""LED100形 (10.1W)、色温度3500K、RA85、照度8401lm""
+}
+```"
+10,image10.png,"```json
+{
+   ""filename"": ""image10.png"",
+   ""hinban"": ""NNN73067Z"",
+   ""num_items"": ""90"",
+   ""serial_num"": ""K150"",
+   ""other"": ""LED照明、色温度3500K、出力14.7W""
+}
+```"
+11,image11.png,"```json
+{
+   ""filename"": ""image11.png"",
+   ""hinban"": ""NDNN74067Z"",
+   ""num_items"": ""27"",
+   ""serial_num"": ""L200"",
+   ""other"": ""LED照明、消費電力19.9W、色温度3500K""
+}
+```"
+12,image12.png,"```json
+{
+   ""filename"": ""image12.png"",
+   ""hinban"": ""NNN74025K"",
+   ""num_items"": ""6"",
+   ""serial_num"": ""M200"",
+   ""other"": ""LED200形、19.9W、色温度5000K""
+}
+```"
+13,image13.png,"```json
+{
+   ""filename"": ""image13.png"",
+   ""hinban"": ""堀込XL574PFF LT9"",
+   ""num_items"": ""28"",
+   ""serial_num"": ""N44"",
+   ""other"": ""LED44W (FHP32Wx4灯タイプ), 色温度3500K""
+}
+```"
+14,image14.png,"```json
+{
+   ""filename"": ""image14.png"",
+   ""hinban"": ""NNN17032"",
+   ""num_items"": ""24"",
+   ""serial_num"": ""なし"",
+   ""other"": ""LED照明、色温度3500K、Ra85、光束675 lumens""
+}
+```"
+15,image15.png,"```json
+{
+   ""filename"": ""image15.png"",
+   ""hinban"": ""LGW51630"",
+   ""num_items"": ""13"",
+   ""serial_num"": ""P30"",
+   ""other"": ""LED丸型蛍光灯30形（18.5W）、色温度5000K、Ra85""
+}
+```"
+16,image16.png,"```json
+{
+   ""filename"": ""image16.png"",
+   ""hinban"": ""NNN11110"",
+   ""num_items"": ""28"",
+   ""serial_num"": ""なし"",
+   ""other"": ""LED照明、業務用、電源100V""
+}
+```"
+17,image17.png,"```json
+{
+   ""filename"": ""image17.png"",
+   ""hinban"": ""LGB87082"",
+   ""num_items"": ""5"",
+   ""serial_num"": ""商品番号なし"",
+   ""other"": ""LED40形（5.2W）、Ra74""
+}
+```"
+18,image18.png,"```json
+{
+   ""filename"": ""image18.png"",
+   ""hinban"": ""LGBZ2117"",
+   ""num_items"": ""1"",
+   ""serial_num"": ""S49"",
+   ""other"": ""LED49W、色温度6500K/3000K""
+}
+```"
+19,image19.png,"```json
+{
+   ""filename"": ""image19.png"",
+   ""hinban"": ""LGBZ2117"",
+   ""num_items"": ""1"",
+   ""serial_num"": ""T43"",
+   ""other"": ""LED照明、色温度6500K/3000K""
+}
+```"
+20,image20.png,"```json
+{
+   ""filename"": ""image20.png"",
+   ""hinban"": ""LGB11600K"",
+   ""num_items"": ""2"",
+   ""serial_num"": ""U603"",
+   ""other"": ""LED60形×3（30W）、色温度2700K""
+}
+```"
+21,image21.png,"```json
+{
+   ""filename"": ""image21.png"",
+   ""hinban"": ""LGB16038"",
+   ""num_items"": ""12"",
+   ""serial_num"": ""なし"",
+   ""other"": ""LED照明、Ra80、光源寿命40000時間""
+}
+```"
+22,image22.png,"```json
+{
+   ""filename"": ""image22.png"",
+   ""hinban"": ""NNN02711W"",
+   ""num_items"": ""6"",
+   ""serial_num"": """",
+   ""other"": ""LEDスポットライト、色温度3500K、設置場所用""
+}
+```"
+23,image23.png,"```json
+{
+   ""filename"": ""image23.png"",
+   ""hinban"": ""NMB-3202P"",
+   ""num_items"": ""1"",
+   ""serial_num"": ""X20"",
+   ""other"": ""ミラーボール203φ""
+}
+```"
+24,image24.png,"```json
+{
+   ""filename"": ""image24.png"",
+   ""hinban"": ""NDNN73751W"",
+   ""num_items"": ""1"",
+   ""serial_num"": ""Y150"",
+   ""other"": ""LED150形 (20.9W)、色温度4000K、Ra92""
+}
+```"
+25,image25.png,"```json
+{
+   ""filename"": ""image25.png"",
+   ""hinban"": ""NNY24110H"",
+   ""num_items"": ""3"",
+   ""serial_num"": """",
+   ""other"": ""LED100形 (10.7W)""
+}
+```"
+26,image26.png,"```json
+{
+   ""filename"": ""image26.png"",
+   ""hinban"": [""NNY22197"", ""LE9""],
+   ""num_items"": ""1"",
+   ""serial_num"": ""b62"",
+   ""other"": ""LED水鋼灯250形（62W）、色温度5000K、光束寿命60000時間""
+}
+```"
+27,image27.png,"```json
+{
+   ""filename"": ""image27.png"",
+   ""hinban"": ""LGWC56020B"",
+   ""num_items"": ""3"",
+   ""serial_num"": ""なし"",
+   ""other"": ""LED40形（5.2W）、色温度4000K""
+}
+```"
+28,image28.png,"```json
+{
+   ""filename"": ""image28.png"",
+   ""hinban"": ""LGWC40100"",
+   ""num_items"": ""3"",
+   ""serial_num"": ""e100"",
+   ""other"": ""LED100形（13W）、明るさ1050lm、防滴型""
+}
+```"
+29,image29.png,"```json
+{
+   ""filename"": ""image29.png"",
+   ""hinban"": ""XLGEC510HLE9"",
+   ""num_items"": ""1"",
+   ""serial_num"": """",
+   ""other"": ""LED40形（5.2W）""
+}
+```"
